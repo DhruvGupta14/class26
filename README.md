@@ -1,2 +1,2 @@
-# class26
-added a platform,learn about git commands,git and github ,clone using gitbash
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
